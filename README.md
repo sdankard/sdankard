@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdankard
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Excel, SQL, PHYTON etc
+- 🌱 I’m currently learning Excel, SQL, PYTHON etc
 - 💞️ I’m looking to collaborate on any projcet I can learn on to grow my tech skills
 - 📫 How to reach me ... click on my twitter handle 
 
